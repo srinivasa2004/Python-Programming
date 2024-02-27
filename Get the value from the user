@@ -1,0 +1,2 @@
+i = int(input("Enter the value of i:"))
+print("the value of i is:"i)
